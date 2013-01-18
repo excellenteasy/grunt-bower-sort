@@ -1,0 +1,29 @@
+{
+  "name": "grunt-bower-sort",
+  "version": "0.0.0",
+  "description": "sort bower components by dependencies",
+  "main": "index.js",
+  "dependencies": {
+    "bower": "~0.6.8"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.0rc5",
+    "grunt-cli": "~0.1.6"
+  },
+  "scripts": {
+    "test": "./node_modules/grunt-cli/bin/grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/excellenteasy/grunt-bower-sort.git"
+  },
+  "keywords": [
+    "bower",
+    "grunt",
+    "plugin",
+    "dependencies",
+    "package"
+  ],
+  "author": "excellenteasy",
+  "license": "MIT"
+}
