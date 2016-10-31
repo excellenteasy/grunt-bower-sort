@@ -4,11 +4,11 @@
   "description": "sort bower components by dependencies",
   "main": "index.js",
   "dependencies": {
-    "bower": "~0.6.8"
+    "bower": "~1.7.9"
   },
   "devDependencies": {
     "grunt": "~0.4.0rc5",
-    "grunt-cli": "~0.1.6"
+    "grunt-cli": "~1.2.0"
   },
   "scripts": {
     "test": "./node_modules/grunt-cli/bin/grunt test"
